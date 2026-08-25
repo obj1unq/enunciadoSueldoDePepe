@@ -20,7 +20,7 @@ El _neto_ depende de la categoría de la persona, y se tienen al menos: las pers
 
 ### Bono por resultados
 
-Pepe tiene un bono por resultados que va cambiando a lo largo del tiempo. Ser tienen tres formas de calcular el **bono por resultados**:  
+Pepe tiene un bono por resultados que va cambiando a lo largo del tiempo. Se tienen tres formas de calcular el **bono por resultados**:  
 * _Porcentaje_: 10% sobre el neto.  
 * _Monto fijo_: $800 fijos.
 * _Nulo_: nada.
